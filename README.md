@@ -1,1 +1,1 @@
-# FacedetectionProject - This project can be used to detect face/faces in an image
+# FacedetectionProject - This project can be used to detect face or faces in an image.
